@@ -1,3 +1,14 @@
 body {
-  background-color: aqua;
+  font-size: 2rem;
+}
+
+.wrapper {
+  background: rgb(32, 26, 113);
+  background: linear-gradient(
+    90deg,
+    rgba(32, 26, 113, 1) 0%,
+    rgba(3, 82, 96, 1) 84%
+  );
+  color: whitesmoke;
+  min-height: 100vh;
 }
